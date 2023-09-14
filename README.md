@@ -185,7 +185,7 @@ Some resources on shell style:
 You should complete the following exercises for this lab, each of which
 has tests and relevant files in the indicated sub-directory:
 
-- [ ] [First script: Compiling a C program](#first-script-compiling-a-c-program) (in `compiling`)
+- [X] [First script: Compiling a C program](#first-script-compiling-a-c-program) (in `compiling`)
 - [ ] [Second script: Clean up a big directory](#second-script-clean-up-a-big-directory) (in `cleaning`)
 
 The tests and any relevant files for each part are in the appropriate
@@ -496,7 +496,7 @@ project. You should also submit the URL of your repository in whatever way
 indicated by your instructor. Remember to make sure you've completed each
 of the assigned tasks:
 
-- [ ] First script: Compiling a C program
+- [X] First script: Compiling a C program
   - `compiling/extract_and_compile.sh`
 - [ ] Second script: Clean up a big directory
   - `cleaning/big_clean.sh`
